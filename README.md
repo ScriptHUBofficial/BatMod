@@ -8,7 +8,7 @@ BatMod , Xenforo Auto Moderation System
 
 
 *******************************************************************************************************************************
-*                                                        MOD 1  -  V3.0                                                       *
+                                                        MOD 1  -  V3.0                                                       
 *******************************************************************************************************************************
 
 # standart moddur sadece yasaklı kelime listesindeki kelimeleri  hedef alır 
@@ -18,7 +18,7 @@ BatMod , Xenforo Auto Moderation System
 
 
 *******************************************************************************************************************************
-*                                                        MOD 2  -  V3.0                                                       *
+                                                        MOD 2  -  V3.0                                                       
 *******************************************************************************************************************************
 
 # agrasif moddur yasaklı kelimeleri yakalarken aynı zamanda botu geçmek istiyip cümle ve kelime içine !'^+%&/()=? gibi ve daha fazlasını tespit edip hedef alır
@@ -28,7 +28,7 @@ BatMod , Xenforo Auto Moderation System
 
 
 *******************************************************************************************************************************
-*                                                        MOD 3  -  V3.0                                                       *
+                                                        MOD 3  -  V3.0                                                       
 *******************************************************************************************************************************
 
 # verdiğiniz üye listesindekilerin 1 haftalık konu paylaşım işlem sayıları aktiflik saatleri gibi verileri toplar ve bir önceki haftaya göre bir rapor hazırlar
