@@ -31,4 +31,4 @@ BatMod , Xenforo Auto Moderation System
 *                                                        MOD 3  -  V3.0                                                       *
 *******************************************************************************************************************************
 
-# verdiğiniz üye listesindekilerin 1haftalık konu paylaşım işlem sayıları aktiflik saatleri gibi verileri toplar ve bir önceki haftaya göre bir rapor hazırlar
+# verdiğiniz üye listesindekilerin 1 haftalık konu paylaşım işlem sayıları aktiflik saatleri gibi verileri toplar ve bir önceki haftaya göre bir rapor hazırlar
