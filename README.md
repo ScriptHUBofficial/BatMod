@@ -18,7 +18,7 @@ BatMod , Xenforo Auto Moderation System
 
 
 *****************************************************************************************************************
-                                        🛡️ MOD 2  -  V3.0 🛡️    #Premium                           
+                                        🛡️ MOD 2  -  V3.0 🛡️    #FREE                          
 *****************************************************************************************************************
 
 🛡️ agrasif moddur yasaklı kelimeleri yakalarken aynı zamanda botu geçmek istiyip cümle ve kelime içine !'^+%&/()=? gibi ve daha fazlasını tespit edip hedef alır
@@ -28,7 +28,7 @@ BatMod , Xenforo Auto Moderation System
 
 
 ******************************************************************************************************************
-                                         🛡️ MOD 3  -  V3.0 🛡️    #Premium                                   
+                                         🛡️ MOD 3  -  V3.0 🛡️    #Coming Soon                                   
 ******************************************************************************************************************
 
 🛡️ verdiğiniz üye listesindekilerin 1 haftalık konu paylaşım işlem sayıları aktiflik saatleri gibi verileri toplar ve bir önceki haftaya göre bir rapor hazırlar
