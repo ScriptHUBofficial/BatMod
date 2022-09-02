@@ -1,0 +1,17 @@
+{
+  "name": "ct-proje",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.25.1",
+    "prompt-sync": "^4.2.0",
+    "puppeteer": "^16.2.0"
+  }
+}
