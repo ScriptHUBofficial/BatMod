@@ -54,7 +54,7 @@ async function mod1() {
   
   const browser = await puppeteer.launch(BROWSER_CONFIG);
   const page = await browser.newPage();
-  await page.setUserAgent('ctguard');
+  await page.setUserAgent('USERAGENT');
   await page.goto('https://yourwebsite.com/approval-queue/');
   await fill_input(page, 'login', 'username/e-mail');
   await fill_input(page, 'password', 'yourpassword');
